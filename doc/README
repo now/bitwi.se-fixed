@@ -1,0 +1,28 @@
+Bitwi.se’s Fixed Font README
+============================
+
+Introduction
+------------
+
+Bitwi.se’s Fixed font is an extensive modification of Markus Kuhn’s extension
+of -misc-fixed-*-iso8859-1 fonts for X11.  The differences include rounder
+characters, an easier-to-spot zero, cleaned-up accents, redone arrows, and
+more.  The main design principle for this font was ot make it more pleasant to
+read on-screen, as it was felt that -misc-fixed-* is far to pointy and stiff.
+This font only comes in one size, 6 by 13, as that’s the default size for the
+-misc-fixed-* family of fonts and also the best for most screens.  Other sizes
+can be made, but volunteers are desperately wanted for such an untertaking.
+
+Authors
+-------
+
+Nikolai Weibull <nikolai@bitwi.se>
+
+News
+----
+
+1.0.0
+~~~~~
+
+Not much news.  The font is more or less complete.  Still, characters may change
+as I spot discrepancies.
